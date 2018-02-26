@@ -8,4 +8,4 @@ A business-savvy software craftsman who believe in writing clean, loosely couple
 
 ### Contact me
 
-[email@domain.com](mailto:p@sanju.org)
+[gig@sanju.org](mailto:gig@sanju.org)

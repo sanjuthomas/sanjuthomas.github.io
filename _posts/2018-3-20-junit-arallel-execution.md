@@ -9,7 +9,7 @@ The complete source code can be found in [Github.](https://github.com/sanjuthoma
 
 ### Surefire Plugin Configuration
 
-```
+``
 <plugin>
    <groupId>org.apache.maven.plugins</groupId>
    <artifactId>maven-surefire-plugin</artifactId>
@@ -21,4 +21,4 @@ The complete source code can be found in [Github.](https://github.com/sanjuthoma
       <useUnlimitedThreads>true</useUnlimitedThreads> //create as many threads as needed
    </configuration>
 </plugin>
-```
+``

@@ -18,7 +18,7 @@ avatar: http://sanjuthomas.com/images/sanjuthomas.jpeg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:gig@sanju.org
+  email: gig@sanju.org
   facebook:
   flickr:
   github: sanjuthomas
@@ -28,7 +28,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   twitter: sanjuthoma
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: https://www.youtube.com/playlist?list=PLicuydJ9LzLGkiu-EYliHTQUwKjZokqyk
+  youtube: https://www.youtube.com/playlist?list=PLicuydJ9LzLGkiu-EYliHTQUwKjZokqyk nhv
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 

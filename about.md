@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Delivery focused and business savvy software craftsman who believes in writing clean, loosely coupled, robust, and maintainable design and code.
+An avid learner, scrum-er, delivery focused, and business savvy software craftsman who writes clean, loosely coupled, robust, and maintainable design and code through practicing agile engineering. 
 
 ### Contact me
 

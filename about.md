@@ -8,7 +8,7 @@ An avid learner, scrum-er, delivery focused, highly disciplined, and business sa
 
 ### Latest Interests
 
-Google Cloud Data Engineering, Event Sourcing Architecture, CQRS, and Kafka Centric ETL/Streaming Solution.
+Reactive Programming, Event Sourcing Architecture, CQRS, and Kafka Centric ETL/Streaming Solution.
 
 ### Contact
 

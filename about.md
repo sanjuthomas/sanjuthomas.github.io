@@ -11,8 +11,8 @@ An avid learner, scrum-er, delivery focused, highly disciplined, and business sa
 Reactive Programming, Event Sourcing Architecture, CQRS, and Kafka Centric ETL/Streaming Solution.
 
 ### Current Employer
-Goldman Sachs, New York, Vice President from 03/2019 to current
-Previous Tenure - Locations: Bangalore, New York, and Dallas, Analyst and Associate from 08/2009 to 03/2012
+Goldman Sachs, New York, Title: Vice President from 03/2019 to current.
+Previous Tenure - Locations: Bangalore, New York, and Dallas. Titles: Analyst and Associate from 08/2009 to 03/2012.
 
 ### Past Employers and Projects
 Priceline.com, New York, Senior Software Engineer from 10/2017 to 03/2019.

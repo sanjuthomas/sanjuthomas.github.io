@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-An avid learner, scrum-er, delivery focused, highly disciplined, and business savvy software craftsman who writes clean, loosely coupled, robust, and maintainable design/code through practising agile engineering.
+An avid learner and results-driven software engineering leader with over two decades of success in building enterprise-scale distributed systems and leading high-performing engineering teams. Known for a disciplined approach, business acumen, and a strong focus on delivery and impact.
 
 ### Latest Interests
 
-Reactive Programming, Event Sourcing Architecture, CQRS, and Kafka Centric ETL/Streaming Solution.
+Reactive Programming, Event Sourcing Architecture, CQRS, Kafka Centric ETL/Streaming Solution, Observability, and Security.
 
 ### Current Employer
 Goldman Sachs, New York, Title: Vice President from 03/2019 to current.\

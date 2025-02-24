@@ -21,6 +21,8 @@ Developed and optimized Kafka sink connectors for seamless integration with Goog
 Architected and deployed a secure, multi-tenant, multi-cluster client onboarding system for the Kafka ecosystem, ensuring frictionless integration while adhering to stringent security standards.\
 Engineered and implemented a real-time Kafka cluster and consumer health monitoring solution, enhancing system reliability and high availability through continuous monitoring and proactive issue resolution.
 
+**MarkLogic Corporation, New York, Senior Consultant from 01/2016 to 07/2019.**\
+Developed and implemented MarkLogic-centric search and discovery solutions for three Fortune 100 clients, harnessing the platform's capabilities to deliver efficient and scalable data search and retrieval functionalities. Additionally, I developed and open-sourced the [MarkLogic Kafka Sink Connector](https://github.com/sanjuthomas/kafka-connect-marklogic), enabling seamless integration between Kafka and MarkLogic databases and contributing to the open-source community.
 
 ### Open Source
 Checkout my [GitHub](https://github.com/sanjuthomas) account.

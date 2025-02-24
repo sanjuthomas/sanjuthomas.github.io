@@ -17,7 +17,7 @@ Previous Tenure - Locations: Bangalore, Dallas, and New York. Titles: Analyst an
 ### Past Employers and Projects
 **Priceline.com, New York, Senior Software Engineer from 10/2017 to 03/2019.**\
 Designed, developed, and implemented a high-performance Kafka-centric data pipeline, routing 30+ billion messages daily to support cloudification initiatives, ensuring scalable, efficient, and reliable data processing.\
-Developed and optimized Kafka sink connectors for seamless integration with Google Cloud BigQuery and Bigtable, enabling real-time, high-throughput data ingestion and analysis.\
+Developed and optimized Kafka sink connectors for seamless integration with Google Cloud BigQuery and [Bigtable](https://github.com/sanjuthomas/kafka-connect-gcp-bigtable), enabling real-time, high-throughput data ingestion and analysis.\
 Architected and deployed a secure, multi-tenant, multi-cluster client onboarding system for the Kafka ecosystem, ensuring frictionless integration while adhering to stringent security standards.\
 Engineered and implemented a real-time Kafka cluster and consumer health monitoring solution, enhancing system reliability and high availability through continuous monitoring and proactive issue resolution.
 

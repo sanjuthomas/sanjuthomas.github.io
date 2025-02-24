@@ -24,6 +24,11 @@ Engineered and implemented a real-time Kafka cluster and consumer health monitor
 **MarkLogic Corporation, New York, Senior Consultant from 01/2016 to 07/2019.**\
 Developed and implemented MarkLogic-centric search and discovery solutions for three Fortune 100 clients, harnessing the platform's capabilities to deliver efficient and scalable data search and retrieval functionalities. Additionally, I developed and open-sourced the [MarkLogic Kafka Sink Connector](https://github.com/sanjuthomas/kafka-connect-marklogic), enabling seamless integration between Kafka and MarkLogic databases and contributing to the open-source community.
 
+**JPMorgan Chase, New York, Technical Consultant (Contract) from 04/2014 to 01/2016.**\
+Assisted the Liquidity Risk team in developing a regulatory-sensitive Stress Test platform, ensuring compliance with regulatory requirements and facilitating effective risk management.
+
+Please visit my [LinkedIn](https://www.linkedin.com/in/sanjuthomas/details/experience/) for additional career history.
+
 ### Open Source
 Checkout my [GitHub](https://github.com/sanjuthomas) account.
 
@@ -35,7 +40,7 @@ Checkout my [GitHub](https://github.com/sanjuthomas) account.
 Please share the detailed job description with [gig@sanju.org](mailto:gig@sanju.org).\
 Here are my **expectations** in exchange for my experience, skills, and time with you or your employer:\
 I prefer fully remote opportunities. Since I am requesting a remote role, I am willing to make some concessions in my variable pay; however, my base salary is non-negotiable. I do not require benefits such as health insurance, but I do expect 20 days of vacations in addition to public holidays.
-My base salary expectation ranges from **$220K to $250K USD**, depending on the role and responsibilities.
+My base salary expectation ranges from **$220K to $250K USD** per year, depending on the role and responsibilities.
 
 
 

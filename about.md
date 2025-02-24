@@ -39,7 +39,7 @@ Checkout my [GitHub](https://github.com/sanjuthomas) account.
 ### Do you want to hire me? 
 Please share the detailed job description with [gig@sanju.org](mailto:gig@sanju.org).\
 Here are my **expectations** in exchange for my experience, skills, and time with you or your employer:\
-I prefer fully remote opportunities and seek an interview process that concludes within a month. Since I am requesting a remote role, I am willing to make some concessions in my variable pay; however, my base salary is non-negotiable. I do not require benefits such as health insurance, but I do expect minimum **20 days** of vacations in addition to public holidays.
+I prefer fully remote opportunities and seek an interview process that concludes within a month. Since I am requesting a remote role, I am willing to make some concessions in my variable pay; however, my base salary is non-negotiable. I do not require benefits like health insurance, but I expect a minimum of 20 vacation days in addition to public holidays.
 
 
 

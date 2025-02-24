@@ -28,7 +28,7 @@ Developed and implemented MarkLogic-centric search and discovery solutions for t
 Checkout my [GitHub](https://github.com/sanjuthomas) account.
 
 ### Continuous Education
-[Coursera](https://www.coursera.org/user/8b70309077e3b18eb03823d00e8390a7)
+[Coursera](https://www.coursera.org/user/8b70309077e3b18eb03823d00e8390a7)\
 [Certifications](https://www.linkedin.com/in/sanjuthomas/details/certifications/)
 
 ### Do you want to hire me? 

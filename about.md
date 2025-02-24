@@ -40,7 +40,6 @@ Checkout my [GitHub](https://github.com/sanjuthomas) account.
 Please share the detailed job description with [gig@sanju.org](mailto:gig@sanju.org).\
 Here are my **expectations** in exchange for my experience, skills, and time with you or your employer:\
 I prefer fully remote opportunities. Since I am requesting a remote role, I am willing to make some concessions in my variable pay; however, my base salary is non-negotiable. I do not require benefits such as health insurance, but I do expect **20 days** of vacations in addition to public holidays.
-My base salary expectation ranges from **$220K to $250K USD** per year, depending on the role and responsibilities.
 
 
 

@@ -8,13 +8,13 @@ An avid learner and results-driven software engineering leader with over two dec
 
 ### Latest Interests
 
-Distributed Systems, Event Sourcing Architecture, CQRS, Reactive Programming, Kafka Centric ETL/Streaming Solution, Observability, and Security.
+Distributed Systems, Event Sourcing Architecture, CQRS, Reactive Programming, Kafka Centric ETL/Streaming Solution, Domain Driven Design, Observability, and Security.
 
 ### Current Employer
 **Goldman Sachs, New York, Title: Vice President from 03/2019 to current.**\
 Previous Tenure - Locations: Bangalore, Dallas, and New York. Titles: Analyst and Associate from 08/2009 to 03/2012.
 
-### Past Employers and Projects
+### Previous  Employers and Projects
 **Priceline.com, New York, Senior Software Engineer from 10/2017 to 03/2019.**\
 Designed, developed, and implemented a high-performance Kafka-centric data pipeline, routing 30+ billion messages daily to support cloudification initiatives, ensuring scalable, efficient, and reliable data processing.\
 Developed and optimized Kafka sink connectors for seamless integration with Google Cloud BigQuery and [Bigtable](https://github.com/sanjuthomas/kafka-connect-gcp-bigtable), enabling real-time, high-throughput data ingestion and analysis.\
@@ -26,6 +26,10 @@ Developed and implemented MarkLogic-centric search and discovery solutions for t
 
 ### Open Source
 Checkout my [GitHub](https://github.com/sanjuthomas) account.
+
+### Continuous Education
+[Coursera](https://www.coursera.org/user/8b70309077e3b18eb03823d00e8390a7)
+[Certifications](https://www.linkedin.com/in/sanjuthomas/details/certifications/)
 
 ### Do you want to hire me? 
 Please share the detailed job description with [gig@sanju.org](mailto:gig@sanju.org).\

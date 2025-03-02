@@ -13,6 +13,7 @@ Distributed Systems, Event Sourcing Architecture, CQRS, Reactive Programming, Ka
 ### Current Employer
 **Goldman Sachs, New York, Title: Vice President from 03/2019 to current.**\
 Previous Tenure - Locations: Bangalore, Dallas, and New York. Titles: Analyst and Associate from 08/2009 to 03/2012.
+During my two tenures with the bank, I contributed to both revenue generation and federation efforts. I initially started with the Internal Audit division. After leaving the firm in March 2012, I returned in March 2019 to join the Asset and Wealth Management division. In March 2022, I transitioned to the Core Engineering team, and I recently joined the Transaction Banking division on the private side in February 2025.
 
 ### Previous  Employers and Projects
 **Priceline.com, New York, Senior Software Engineer from 10/2017 to 03/2019.**\

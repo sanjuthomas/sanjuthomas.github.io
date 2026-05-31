@@ -8,7 +8,7 @@ theme = 'hugo-xmin'
 
 [params]
   title = 'Sanju Thomas'
-  description = "A Pragmatic Software Engineer."
+  description = "Techno-functional software engineering leader in financial services. FINRA SIE."
   footer = "&copy; Sanju Thomas {Year} | [LinkedIn](https://www.linkedin.com/in/sanjuthomas/) | [GitHub](https://github.com/sanjuthomas)"
 
 [markup.goldmark.renderer]

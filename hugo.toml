@@ -1,0 +1,30 @@
+baseURL = 'https://sanjuthomas.com/'
+locale = 'en-us'
+title = 'Sanju Thomas'
+theme = 'hugo-xmin'
+
+[author]
+  name = "Sanju Thomas"
+
+[params]
+  title = 'Sanju Thomas'
+  description = "A Pragmatic Software Engineer."
+  footer = "&copy; Sanju Thomas {Year} | [LinkedIn](https://www.linkedin.com/in/sanjuthomas/) | [GitHub](https://github.com/sanjuthomas)"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 2
+
+[[menu.main]]
+  name = "Resume"
+  url = "/resume/"
+  weight = 3

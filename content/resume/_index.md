@@ -7,7 +7,7 @@ A techno-functional software engineering leader and lifelong learner with over 2
 
 ## Latest Interests
 
-Distributed Systems, Platform Engineering, Event Sourcing Architecture, CQRS, Reactive Programming, Kafka-centric ETL/Streaming Solution, Domain-Driven Design, Observability, and Security.
+Distributed Systems, Payment Platforms, Platform Engineering, Event Sourcing Architecture, CQRS, Reactive Programming, Kafka-centric ETL/Streaming Solution, Domain-Driven Design, Observability, and Security.
 
 ## Current Employer
 

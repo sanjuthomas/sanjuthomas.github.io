@@ -3,6 +3,7 @@ title: "Leader Election with MongoDB TTL Leases"
 description: "How to elect a batch leader using MongoDB TTL indexes and lease-based ownership—without adding etcd, ZooKeeper, or another coordination service."
 date: 2026-02-01
 type: posts
+tags: ["Distributed Systems", "MongoDB", "Leader Election", "Spring Boot"]
 draft: false
 ---
 

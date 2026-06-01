@@ -3,6 +3,7 @@ title: "U.S. Domestic Payment Rails"
 description: "Understanding U.S. Domestic Payment Rails: ACH, Fedwire, RTP, and FedNow"
 date: 2025-12-01
 type: posts
+tags: ["Payments", "Financial Services", "Distributed Systems", "Architecture"]
 draft: false
 ---
 

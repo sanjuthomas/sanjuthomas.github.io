@@ -28,3 +28,8 @@ theme = 'hugo-xmin'
   name = "Resume"
   url = "/resume/"
   weight = 3
+
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 4

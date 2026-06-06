@@ -128,7 +128,7 @@ There is no universal schedule. There is only whether the cadence produces learn
 
 The most valuable outcome of a retrospective is often not the action list. It is trust.
 
-[Google's Project Aristotle](https://rework.withgoogle.com/guides/understanding-team-effectiveness/) and [Amy Edmondson's research on psychological safety](https://hbr.org/2016/05/high-performing-teams-need-psychological-safety) both point to the same conclusion: high-performing teams need an environment where people can surface mistakes, risks, and disagreements without fear of punishment or ridicule.
+[Google's Project Aristotle](https://rework.withgoogle.com/intl/en/guides/understand-team-effectiveness) and [Amy Edmondson's research on psychological safety](https://www.hbs.edu/faculty/Pages/item.aspx?num=2959) both point to the same conclusion: high-performing teams need an environment where people can surface mistakes, risks, and disagreements without fear of punishment or ridicule.
 
 A retrospective only works if participants believe the session is about improving the system—not assigning blame.
 

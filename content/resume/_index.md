@@ -37,7 +37,7 @@ Checkout my [GitHub](https://github.com/sanjuthomas) account.
 
 ## Professional Credentials
 
-**FINRA SIE (Securities Industry Essentials)** — [Examination result](https://github.com/sanjuthomas/training-artifacts/blob/master/FINRA%20SIE.pdf). Validates foundational knowledge spanning investment products and their risks, trading mechanics and customer accounts, capital markets and macroeconomic factors, and the U.S. securities regulatory framework - complementing a career building technology across banking, securities, and wealth management.
+**FINRA SIE (Securities Industry Essentials)** — [Examination result](/FINRA_SIE.pdf). Validates foundational knowledge spanning investment products and their risks, trading mechanics and customer accounts, capital markets and macroeconomic factors, and the U.S. securities regulatory framework - complementing a career building technology across banking, securities, and wealth management.
 
 ## Continuous Education
 

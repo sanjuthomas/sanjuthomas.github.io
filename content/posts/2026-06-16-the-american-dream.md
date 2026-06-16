@@ -9,37 +9,21 @@ draft: false
 
 > **A product vision.** This post describes what OpenOffer *could* be—a thought exercise on modernizing residential real estate. It is not a product announcement, investment advice, or a statement of current development plans.
 
-## The Problem
+## The Problem: Home Buying is a Black Box
 
-A few years ago, I was trying to buy a home.
+A few years ago, I was trying to buy a home. Like millions of others, I went through the traditional route: find a house, submit a PDF offer through an agent, and wait.
 
-Like most buyers, I worked with a real estate agent. Whenever I found a property I liked, my agent would prepare an offer and submit it on my behalf.
+Too often, the response was a simple, "Sorry, you didn't get it." No context. No feedback.
 
-Then came the waiting.
+As a buyer, you are forced to make the biggest financial decision of your life completely blindfolded. You never know:
 
-A day or two later, I would receive a phone call.
+* **The competition** — How many offers were on the table?
+* **The margin** — Did you lose by $1,000 or $100,000?
+* **The leverage** — Would a faster closing date or waived appraisal have saved the deal?
 
-"Sorry, your offer wasn't accepted."
+### An Obsolete Process
 
-That was usually the end of the story.
-
-I never knew:
-
-* How many competing offers existed.
-* Whether my offer was competitive.
-* Whether I lost by $1,000 or $100,000.
-* Whether another buyer had stronger financing.
-* Whether the seller preferred a faster closing date.
-* Whether waiving an appraisal would have made a difference.
-* Whether my agent effectively represented my interests.
-
-The entire process felt like participating in an auction while blindfolded.
-
-For one of the largest financial decisions of our lives, the home-buying process remains surprisingly opaque.
-
-In an age where consumers can trade stocks in milliseconds, track package deliveries in real time, and compare prices across thousands of vendors instantly, buying a home still relies heavily on phone calls, PDFs, emails, text threads, and private conversations.
-
-There has to be a better way.
+We live in an age of instant data—where consumers trade stocks in milliseconds and track deliveries in real time. Yet, the real estate industry still relies on fragmented emails, texts, and private conversations. The traditional home-buying process isn't just outdated; it's broken.
 
 ## The Vision
 

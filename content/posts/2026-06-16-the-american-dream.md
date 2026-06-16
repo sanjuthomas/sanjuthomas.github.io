@@ -1,6 +1,6 @@
 ---
 title: "OpenOffer: Bringing Transparency to the American Dream"
-description: "A vision for a transparent real estate marketplace with clear financial incentives for buyers and sellers—unbundled services, competitive agent proposals, and a complete transaction record."
+description: "A vision for a transparent real estate marketplace with clear financial incentives, Agent Effectiveness scoring, and a complete transaction record for buyers and sellers."
 date: 2026-06-16
 type: posts
 tags: ["Real Estate", "Platform Strategy", "Marketplace", "Proptech"]
@@ -76,7 +76,7 @@ Traditional listings often bundle marketing, staging advice, showings, and negot
 * Hire an appraiser for a fee to establish a pricing baseline. There is no contract and no ongoing obligation—and the seller may hire more than one appraiser to compare perspectives.
 * Hire a stager for a fee to prepare the home for market. Again, no contract and no obligation—the seller engages the stager only if and when it makes financial sense.
 
-**Choose an agent competitively—even if you want one.** Sellers are not forced into a relationship with the first agent they meet. A seller who wants representation can invite proposals from an array of local realtors and brokerages, compare scope and fees, and select the best fit. The seller remains in control of how much professional help they buy and what they pay for it.
+**Choose an agent competitively—even if you want one.** Sellers are not forced into a relationship with the first agent they meet. A seller who wants representation can invite proposals from an array of local realtors and brokerages, compare scope and fees, and evaluate each agent's **Agent Effectiveness** score before selecting the best fit. The seller remains in control of how much professional help they buy and what they pay for it.
 
 The seller's financial upside is clear: avoid a default commission when self-service works, add paid expertise only where it earns its keep, and force price competition when an agent is worth hiring.
 
@@ -88,7 +88,7 @@ Buyers face the same opacity problem from the other side of the table—limited 
 
 **Get a virtual appraisal before you commit.** A buyer can hire an appraiser for a virtual appraisal for a fee. A physical inspection of the interior is often not possible before a contract is signed; a virtual appraisal gives the buyer an informed price anchor earlier in the process—again with no contract and no obligation beyond that engagement.
 
-**Choose an agent competitively—or go without.** Buyers may represent themselves or hire an agent. Those who want representation can invite proposals from local agents and companies, compare terms, and pick the best fit rather than accepting whoever referred them. The platform maintains a complete audit trail of actions performed on behalf of the buyer.
+**Choose an agent competitively—or go without.** Buyers may represent themselves or hire an agent. Those who want representation can invite proposals from local agents and companies, compare terms, and evaluate each agent's **Agent Effectiveness** score before picking the best fit—rather than accepting whoever referred them. The platform maintains a complete audit trail of actions performed on behalf of the buyer.
 
 **Submit offers with confidence.** The platform provides a guided offer wizard that walks buyers through every step: offer price, earnest money deposit, down payment, financing details, inspection and appraisal contingencies, closing timeline, and additional terms. The platform automatically converts the buyer's selections into legally compliant offer documents based on the laws and standard forms applicable in the property's state. The buyer reviews and electronically signs the completed offer package before submission.
 
@@ -126,6 +126,20 @@ A higher offer that falls apart during financing may be less attractive than a s
 
 OpenOffer creates a Buyer Reliability Score based on factors such as identity verification, mortgage approval quality, down payment percentage, proof of funds, prior transaction history, and closing success rate. This gives sellers greater confidence when evaluating competing offers.
 
+### Agent Effectiveness Score
+
+Choosing an agent today often comes down to referrals, advertising, or whoever responds first—not demonstrated performance. OpenOffer introduces an **Agent Effectiveness** score and star rating so that selecting representation becomes meritocratic rather than arbitrary.
+
+The score is built from verifiable signals:
+
+* **Years of experience** — tenure in the profession.
+* **License history** — including whether the agent has ever had a license suspended or disciplined.
+* **Recent closing activity** — the number of buyer-side and seller-side representations closed on the platform during the last 365 days.
+* **Client reviews** — ratings from buyers and sellers who completed transactions with the agent on OpenOffer.
+* **Local track record** — closings in the same town or municipality as the listing or purchase, reflecting genuine neighborhood expertise.
+
+When a seller or buyer invites agent proposals, these scores sit alongside fee quotes and scope of service—making it possible to compare agents on outcomes and reputation, not just chemistry or marketing. Strong performers rise. Weak performers become visible before they are hired, not after a deal falls apart.
+
 ### Finalist Round
 
 Many sellers already conduct informal "best and final" rounds. OpenOffer formalizes this process.
@@ -142,7 +156,7 @@ Finalists know they are in contention; they do not see competing buyers' identit
 
 ### Reviews That Weed Out Bad Actors
 
-Both sellers and buyers can leave reviews for agents and other service providers after a transaction. A transparent reputation system rewards quality and accountability—and surfaces poor performers quickly. When appraisers, stagers, inspectors, and agents know their work is rated by both sides of the deal, the marketplace self-corrects faster than word-of-mouth alone.
+Both sellers and buyers can leave reviews for agents and other service providers after a transaction. Those reviews feed directly into each agent's Effectiveness score. A transparent reputation system rewards quality and accountability—and surfaces poor performers quickly. When appraisers, stagers, inspectors, and agents know their work is rated by both sides of the deal, the marketplace self-corrects faster than word-of-mouth alone.
 
 ### A Single Record for the Entire Transaction
 

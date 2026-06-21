@@ -1,6 +1,6 @@
 ---
-title: "Chat with SEC Filings: Building a Local RAG Pipeline for EDGAR"
-description: "How six open-source repos turn SEC EDGAR 10-K and 10-Q filings into a conversational, cited search experience — from crawler to Kafka to pgvector and Qdrant, with Ollama on your laptop."
+title: "The SEC Filing Intelligence Stack: From EDGAR Crawl to Conversational Search"
+description: "How six open-source repos form an event-driven intelligence stack for SEC filings — from EDGAR ingest and Kafka streaming to vector search and cited conversational answers on a local LLM."
 date: 2026-06-20
 type: posts
 tags: ["RAG", "SEC EDGAR", "Vector Search", "Architecture", "Financial Services"]

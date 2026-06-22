@@ -66,13 +66,15 @@ Infrastructure & Operations
 
 Business Domains
 
-* Financial Services - (FINRA SIE Certified)
+* Financial Services - [FINRA SIE Certified](https://sanjuthomas.com/FINRA_SIE.pdf)
 * Payments
 * Corporate Cash Management
 * Wealth Management
 * Transaction Banking
 
 ---
+
+On Sabbatical Since Apr 2026.
 
 Professional Experience
 

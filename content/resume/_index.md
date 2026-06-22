@@ -3,7 +3,6 @@ title: Sanju Thomas
 draft: false
 ---
 
-Sanju Thomas
 Westfield, NJ
 
 LinkedIn: https://www.linkedin.com/in/sanjuthomas
@@ -160,8 +159,6 @@ Master of Computer Applications
 
 
 ## Continuous Education
-[FINRA SIE](https://sanjuthomas.com/FINRA_SIE.pdf)
-
+[FINRA SIE](https://sanjuthomas.com/FINRA_SIE.pdf)  
 [Coursera](https://www.coursera.org/user/8b70309077e3b18eb03823d00e8390a7)  
-
 [Certifications](https://www.linkedin.com/in/sanjuthomas/details/certifications/)

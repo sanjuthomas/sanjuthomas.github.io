@@ -122,7 +122,7 @@ Jan 2016 – Aug 2017
 
 * Designed and implemented enterprise search and discovery solutions using MarkLogic, RDF knowledge graphs, SPARQL, and ontology-driven semantic search, enabling context-aware information retrieval across large healthcare and financial datasets.
 ---
-2004 – 2016 (Career History)
+2004 – 2016 - [Career History](https://www.linkedin.com/in/sanjuthomas/details/experience/)
 
 * Held engineering, architecture, consulting, and leadership roles across financial services, e-commerce, and healthcare organizations.
 ---

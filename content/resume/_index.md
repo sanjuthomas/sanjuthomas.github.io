@@ -74,7 +74,9 @@ Business Domains
 
 ---
 
-On Sabbatical Since Apr 2026.
+On Sabbatical since Apr 2026.
+
+---
 
 Professional Experience
 

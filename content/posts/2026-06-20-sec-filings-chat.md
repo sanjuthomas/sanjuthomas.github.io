@@ -67,21 +67,17 @@ flowchart TB
     Crawler --> Kafka[["Kafka<br/>filings topic"]]
     Crawler --> Disk["Local disk<br/>.htm filings"]
 
-    Kafka --> PgETL["sec-edgar-filings-to-pgvector"]
-    Kafka --> QdrantETL["sec-edgar-filings-to-qdrant"]
-    Mongo --> PgETL
-    Mongo --> QdrantETL
-    Disk --> PgETL
-    Disk --> QdrantETL
+    Kafka --> ETL["sec-edgar-filings ETL"]
+    Mongo --> ETL
+    Disk --> ETL
 
-    PgETL --> PG[("pgvector<br/>+ BM25 hybrid")]
-    QdrantETL --> Qdrant[("Qdrant")]
-
-    PG --> Chat["sec-edgar-filings-chat"]
-    Qdrant --> Chat
+    ETL --> VectorStore[("Vector store<br/>+ BM25 search")]
+    VectorStore --> Chat["sec-edgar-filings-chat"]
     Chat --> Ollama["Ollama<br/>bge-m3 + qwen3"]
     Ollama --> Chat
 ```
+
+> **Retrieval backends:** The diagram shows one indexing path, but the same Kafka events can feed either backend. **pgvector + pg_search** (ParadeDB) combines **dense** embedding similarity with **sparse** BM25 lexical search, fused via reciprocal rank fusion (RRF). **Qdrant** offers the same dense + sparse pattern with its own vector and full-text APIs. Pick one in the chat UI — no need to re-crawl filings.
 
 ### Stage 1 — Ingest (Crawler)
 

@@ -8,7 +8,6 @@ Westfield, NJ
 
 LinkedIn: https://www.linkedin.com/in/sanjuthomas
 GitHub: https://github.com/sanjuthomas
-Website: https://sanjuthomas.com
 
 ---
 

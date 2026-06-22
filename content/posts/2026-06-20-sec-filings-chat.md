@@ -193,6 +193,13 @@ Example questions that work well today:
 
 Filter by ticker (`GS`) and form (`10-K`) to narrow retrieval when you know the target filing.
 
+<video controls playsinline preload="metadata" width="100%">
+  <source src="/videos/sec-filings-chat-demo.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+
+*Screen recording of the chat UI answering a filing question with cited sources.*
+
 ---
 
 ## What Comes Next

@@ -2,6 +2,7 @@ baseURL = 'https://sanjuthomas.com/'
 locale = 'en-us'
 title = 'Sanju Thomas'
 theme = 'hugo-xmin'
+enableRobotsTXT = false
 
 [author]
   name = "Sanju Thomas"
@@ -10,6 +11,18 @@ theme = 'hugo-xmin'
   title = 'Sanju Thomas'
   description = "Techno-functional software engineering leader in financial services. FINRA SIE."
   footer = "&copy; Sanju Thomas {Year} | [LinkedIn](https://www.linkedin.com/in/sanjuthomas/) | [GitHub](https://github.com/sanjuthomas) | [Scrum Retrospective](https://scrumretrospective.org/)"
+  canonicalBaseURL = "https://sanjuthomas.com"
+
+  [params.seo]
+    title = "Sanju Thomas — Software Engineering Leader in Financial Services"
+    description = "Software engineering leader with 20+ years in financial services: distributed systems, payments, observability, policy as code, and enterprise AI. FINRA SIE."
+    image = "/images/sanju-aaron.jpeg"
+    robots = "index, follow"
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
 
 [markup.goldmark.renderer]
   unsafe = true

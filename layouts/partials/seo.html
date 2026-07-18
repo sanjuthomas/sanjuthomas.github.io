@@ -1,0 +1,108 @@
+{{- $canonicalBase := strings.TrimSuffix "/" (or .Site.Params.canonicalBaseURL .Site.BaseURL) -}}
+{{- $permalink := printf "%s%s" $canonicalBase .RelPermalink -}}
+{{- $title := .Site.Title -}}
+{{- if .IsHome -}}
+  {{- $title = or .Site.Params.seo.title .Site.Title -}}
+{{- else if .Title -}}
+  {{- $title = printf "%s | %s" .Title .Site.Title -}}
+{{- end -}}
+{{- $description := "" -}}
+{{- if .IsHome -}}
+  {{- $description = or .Site.Params.seo.description .Params.description .Site.Params.description -}}
+{{- else -}}
+  {{- $description = or .Description .Params.description .Summary .Site.Params.seo.description .Site.Params.description -}}
+{{- end -}}
+{{- $description = strings.TrimSpace ($description | plainify | htmlUnescape) -}}
+{{- if gt (len $description) 160 -}}
+  {{- $description = printf "%s…" (substr $description 0 157) -}}
+{{- end -}}
+{{- $image := or .Params.image .Site.Params.seo.image -}}
+{{- if reflect.IsSlice $image -}}
+  {{- $image = index $image 0 -}}
+{{- end -}}
+{{- if and $image (not (or (hasPrefix $image "http://") (hasPrefix $image "https://"))) -}}
+  {{- $image = printf "%s/%s" $canonicalBase (strings.TrimPrefix "/" $image) -}}
+{{- end -}}
+{{- if not $image -}}
+  {{- $image = printf "%s/images/sanju-aaron.jpeg" $canonicalBase -}}
+{{- end -}}
+{{- $robots := or .Params.robots .Site.Params.seo.robots "index, follow" -}}
+{{- $ogType := cond .IsHome "website" (cond (eq .Section "posts") "article" "website") -}}
+
+<title>{{ $title }}</title>
+<meta name="description" content="{{ $description }}">
+<meta name="robots" content="{{ $robots }}">
+<link rel="canonical" href="{{ $permalink }}">
+
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:type" content="{{ $ogType }}">
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:description" content="{{ $description }}">
+<meta property="og:url" content="{{ $permalink }}">
+<meta property="og:locale" content="en_US">
+<meta property="og:image" content="{{ $image }}">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ $title }}">
+<meta name="twitter:description" content="{{ $description }}">
+<meta name="twitter:image" content="{{ $image }}">
+
+{{- if .IsHome -}}
+{{- $graph := dict
+  "@context" "https://schema.org"
+  "@graph" (slice
+    (dict
+      "@type" "WebSite"
+      "@id" (printf "%s/#website" $canonicalBase)
+      "url" (printf "%s/" $canonicalBase)
+      "name" .Site.Title
+      "description" $description
+      "publisher" (dict "@id" (printf "%s/#person" $canonicalBase))
+      "inLanguage" "en-US"
+    )
+    (dict
+      "@type" "Person"
+      "@id" (printf "%s/#person" $canonicalBase)
+      "name" "Sanju Thomas"
+      "url" (printf "%s/" $canonicalBase)
+      "image" $image
+      "jobTitle" "Software Engineering Leader"
+      "description" $description
+      "sameAs" (slice
+        "https://www.linkedin.com/in/sanjuthomas/"
+        "https://github.com/sanjuthomas"
+      )
+      "knowsAbout" (slice
+        "Financial services technology"
+        "Distributed systems"
+        "Payment systems"
+        "Observability"
+        "Policy as code"
+        "Enterprise AI"
+      )
+    )
+  )
+-}}
+<script type="application/ld+json">{{ $graph | jsonify | safeJS }}</script>
+{{- else if and (eq .Section "posts") .IsPage -}}
+{{- $post := dict
+  "@context" "https://schema.org"
+  "@type" "BlogPosting"
+  "headline" .Title
+  "description" $description
+  "url" $permalink
+  "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00")
+  "dateModified" ((.Lastmod | default .Date).Format "2006-01-02T15:04:05Z07:00")
+  "author" (dict
+    "@type" "Person"
+    "name" "Sanju Thomas"
+    "url" (printf "%s/" $canonicalBase)
+  )
+  "mainEntityOfPage" (dict
+    "@type" "WebPage"
+    "@id" $permalink
+  )
+  "image" $image
+-}}
+<script type="application/ld+json">{{ $post | jsonify | safeJS }}</script>
+{{- end }}

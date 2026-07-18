@@ -1,5 +1,6 @@
 ---
 title: Sanju Thomas
+description: "Software engineering leader with 20+ years in financial services: distributed systems, payments, observability, policy as code, and enterprise AI. FINRA SIE."
 draft: false
 ---
 

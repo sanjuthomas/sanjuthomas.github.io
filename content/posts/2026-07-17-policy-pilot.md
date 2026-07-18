@@ -129,7 +129,7 @@ Investigation and action share one conversational loop, but skills remain suppor
 
 Operational experience encoded as policy is one credibility signal. Independent critique of the architecture is another.
 
-I ran an adversarial architecture review with a frontier model (**Claude Opus**) against production-shaped constraints. The consensus score landed around **8.0 / 10**: clear boundaries (OIDC → OPA → single-store writes → CDC/graph, fail-closed skills), with residual P1 findings kept visible rather than scored away.
+I ran an adversarial architecture review with a frontier model (**Claude Opus**) against production-shaped constraints. The latest pass (2026-07-18) scored **8.5 / 10**: clear boundaries (OIDC → Authz → OPA → single-store writes → CDC/graph, fail-closed skills), **0 P0 / 0 P1**, with residual P2s (notably chat read-side LOB scoping) kept visible rather than scored away. Full write-up: [architecture review](https://github.com/sanjuthomas/policy-pilot/blob/main/docs/architecture-review-2026-07-18.md).
 
 That pairing is intentional: **experience encoded as Rego**, plus **external review that resists marketing language**.
 

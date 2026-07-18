@@ -13,6 +13,8 @@ Most enterprise AI demonstrations stop at retrieval. [**Policy Pilot**](https://
 
 I built it as an **FDE-style** showcase — the kind of end-to-end system you stand up with a customer team under real bank constraints, not a conversational layer over unstructured documents.
 
+![Policy Pilot — end-to-end architecture](/images/policy-pilot-architecture.png)
+
 ---
 
 ## The Credibility Layer: Production-Grade OPA

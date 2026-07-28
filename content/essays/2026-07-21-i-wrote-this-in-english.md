@@ -2,8 +2,10 @@
 title: "I Wrote This in English"
 description: "On India's education debates, Western influence, and why decisions that look like unforced errors may be surprisingly consistent once you understand the objective."
 date: 2026-07-21
-type: posts
+type: essays
 tags: ["Culture", "History"]
+aliases:
+  - /posts/2026-07-21-i-wrote-this-in-english/
 draft: false
 ---
 

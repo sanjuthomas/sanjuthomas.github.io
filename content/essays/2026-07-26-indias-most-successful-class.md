@@ -2,8 +2,10 @@
 title: "How India's Most Successful Class May Be Undermining the System That Made It Successful"
 description: "India's English-speaking upper caste built its success on institutional foundations it now often treats as colonial residue. Whether that is national renewal or historical self-sabotage remains an open question."
 date: 2026-07-26
-type: posts
+type: essays
 tags: ["Culture", "History"]
+aliases:
+  - /posts/2026-07-26-indias-most-successful-class/
 draft: false
 ---
 

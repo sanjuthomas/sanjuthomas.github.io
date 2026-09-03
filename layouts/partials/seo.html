@@ -27,8 +27,7 @@
   {{- $image = printf "%s/images/sanju-aaron.jpeg" $canonicalBase -}}
 {{- end -}}
 {{- $robots := or .Params.robots .Site.Params.seo.robots "index, follow" -}}
-{{- $isArticle := or (eq .Section "posts") (eq .Section "essays") -}}
-{{- $ogType := cond .IsHome "website" (cond $isArticle "article" "website") -}}
+{{- $ogType := cond .IsHome "website" (cond (eq .Section "posts") "article" "website") -}}
 
 <title>{{ $title }}</title>
 <meta name="description" content="{{ $description }}">
@@ -85,7 +84,7 @@
   )
 -}}
 <script type="application/ld+json">{{ $graph | jsonify | safeJS }}</script>
-{{- else if and $isArticle .IsPage -}}
+{{- else if and (eq .Section "posts") .IsPage -}}
 {{- $post := dict
   "@context" "https://schema.org"
   "@type" "BlogPosting"

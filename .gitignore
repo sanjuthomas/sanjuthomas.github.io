@@ -1,3 +1,6 @@
+# Local-only essays (not published)
+content/essays/
+
 # Hugo build output
 public/
 resources/

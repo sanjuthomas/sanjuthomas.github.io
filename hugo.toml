@@ -46,3 +46,8 @@ enableRobotsTXT = false
   name = "Tags"
   url = "/tags/"
   weight = 4
+
+[[menu.main]]
+  name = "Markets"
+  url = "https://sanjuthomas.com/markets/"
+  weight = 5
